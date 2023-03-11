@@ -3,9 +3,9 @@ import chaiSubset from "chai-subset";
 import {
   Connection,
   Keypair,
-  LAMPORTS_PER_SOL,
+  LAMPORTS_PER_SAFE,
   Transaction,
-} from "@solana/web3.js";
+} from "@safecoin/web3.js";
 import {
   addGatekeeper,
   GatewayToken,
@@ -36,7 +36,7 @@ describe("onGatewayToken", () => {
     await connection.confirmTransaction({
       signature: await connection.requestAirdrop(
         payer.publicKey,
-        LAMPORTS_PER_SOL
+        LAMPORTS_PER_SAFE
       ),
       ...(await connection.getLatestBlockhash()),
     });

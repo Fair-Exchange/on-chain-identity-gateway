@@ -17,7 +17,7 @@
  * Each page requests the accounts that match the next byte.
  */
 
-import { clusterApiUrl, Connection, PublicKey } from "@solana/web3.js";
+import { clusterApiUrl, Connection, PublicKey } from "@safecoin/web3.js";
 import { findGatewayTokens, GatewayToken } from "../src";
 
 const SEPARATOR = ",";

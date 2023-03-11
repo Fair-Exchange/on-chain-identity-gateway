@@ -1,7 +1,7 @@
 import chai from "chai";
 import chaiSubset from "chai-subset";
 import sinon from "sinon";
-import { Connection, PublicKey, Keypair } from "@solana/web3.js";
+import { Connection, PublicKey, Keypair } from "@safecoin/web3.js";
 import * as R from "ramda";
 import {
   State,

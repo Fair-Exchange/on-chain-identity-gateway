@@ -4,7 +4,7 @@ import {
   Connection,
   GetProgramAccountsFilter,
   PublicKey,
-} from "@solana/web3.js";
+} from "@safecoin/web3.js";
 import { GatewayToken, ProgramAccountResponse, State } from "./types";
 import { encode } from "bs58";
 import { PROGRAM_ID, SOLANA_COMMITMENT } from "./lib/constants";

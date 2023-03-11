@@ -4,9 +4,9 @@ import {
   Connection,
   PublicKey,
   Keypair,
-  LAMPORTS_PER_SOL,
+  LAMPORTS_PER_SAFE,
   Transaction,
-} from "@solana/web3.js";
+} from "@safecoin/web3.js";
 import {
   addGatekeeper,
   getGatekeeperAccountAddress,
@@ -52,7 +52,7 @@ describe("getGatewayTokenKeyForOwner", function () {
       connection = new Connection(VALIDATOR_URL);
       payer = Keypair.generate();
       await connection.confirmTransaction(
-        await connection.requestAirdrop(payer.publicKey, LAMPORTS_PER_SOL),
+        await connection.requestAirdrop(payer.publicKey, LAMPORTS_PER_SAFE),
         "confirmed"
       );
     });

@@ -1,4 +1,4 @@
-import { AccountInfo, PublicKey } from "@solana/web3.js";
+import { AccountInfo, PublicKey } from "@safecoin/web3.js";
 import { GatewayTokenData } from "../lib/GatewayTokenData";
 import { dataToGatewayToken } from "../lib/util";
 
