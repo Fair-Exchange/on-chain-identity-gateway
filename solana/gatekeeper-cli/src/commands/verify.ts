@@ -16,7 +16,7 @@ export default class Verify extends Command {
  "owner": "EzZgkwaDrgycsiyGeCVRXXRcieE1fxhGMp829qwj5TMv",
  "state": "ACTIVE",
  "publicKey": "3rNZ6RzH6jLCzFeySVDc8Z82sJkeQ4xi7BCUzjpZBvZr",
- "programId": "gatem74V238djXdzWnJf94Wo1DcnuGkfijbf3AuBhfs"
+ "programId": "gatQYMRPQ6aRJy4wp2JU6hiC2q6kcsQrKvD9Fp1ACmc.json"
 }
 `,
   ];

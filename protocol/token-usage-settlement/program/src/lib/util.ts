@@ -12,7 +12,7 @@ import { Program } from "@project-serum/anchor";
 const { web3, Wallet, BN } = anchor;
 
 export const USAGE_PROGRAM_ID = new PublicKey(
-  "GXD3V5AQTDrszePsSjH1yQNvfCceumZp1jM9mQR4fMPH"
+  "gatd71ATb67gFQQY5gVcicKC6gxBckfNF5AQi2zi8p2.json"
 );
 const DEFAULT_COMMITMENT: Commitment = "confirmed";
 

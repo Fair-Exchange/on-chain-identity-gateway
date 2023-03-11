@@ -47,7 +47,7 @@ pub const DEFAULT_VERIFICATION_OPTIONS: VerificationOptions = VerificationOption
 pub struct Gateway {}
 impl Gateway {
     fn program_id() -> Pubkey {
-        Pubkey::from_str("gatem74V238djXdzWnJf94Wo1DcnuGkfijbf3AuBhfs").unwrap()
+        Pubkey::from_str("gatQYMRPQ6aRJy4wp2JU6hiC2q6kcsQrKvD9Fp1ACmc.json").unwrap()
     }
 
     /// Unpacks an account into a gateway token object

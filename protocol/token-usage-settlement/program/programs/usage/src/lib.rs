@@ -6,7 +6,7 @@ use {
     }
 };
 
-declare_id!("GXD3V5AQTDrszePsSjH1yQNvfCceumZp1jM9mQR4fMPH");
+declare_id!("gatd71ATb67gFQQY5gVcicKC6gxBckfNF5AQi2zi8p2.json");
 
 const PREFIX: &str = "gateway_usage";
 const DELEGATE_SEED: &str = "gateway_usage_delegate";

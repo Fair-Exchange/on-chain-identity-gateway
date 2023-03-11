@@ -1,6 +1,6 @@
 configs:
   - name: GatewayV1
-    program: gatem74V238djXdzWnJf94Wo1DcnuGkfijbf3AuBhfs
+    program: gatQYMRPQ6aRJy4wp2JU6hiC2q6kcsQrKvD9Fp1ACmc.json
     mask: [ 0, 1 ] # [start, end]
     instructions:
       - name: AddGatekeeper

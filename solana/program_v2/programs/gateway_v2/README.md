@@ -44,10 +44,10 @@ The [anchor-based](https://github.com/coral-xyz/anchor) program of the Gateway P
 
 ## Deployments
 
-Mainnet-beta: [gate2TBGydKNyMNUqz64s8bz4uaWS9PNreMbmAjb1Ft](https://explorer.solana.com/address/gate2TBGydKNyMNUqz64s8bz4uaWS9PNreMbmAjb1Ft)
+Mainnet-beta: [gatFkU1YqTZpz3aPxskoBM9SMzbUiUw7TkNHuNs8B3S.json](https://explorer.solana.com/address/gatFkU1YqTZpz3aPxskoBM9SMzbUiUw7TkNHuNs8B3S.json)
 
-Devnet: [gate2TBGydKNyMNUqz64s8bz4uaWS9PNreMbmAjb1Ft](https://explorer.solana.com/address/gate2TBGydKNyMNUqz64s8bz4uaWS9PNreMbmAjb1Ft?cluster=devnet)
+Devnet: [gatFkU1YqTZpz3aPxskoBM9SMzbUiUw7TkNHuNs8B3S.json](https://explorer.solana.com/address/gatFkU1YqTZpz3aPxskoBM9SMzbUiUw7TkNHuNs8B3S.json?cluster=devnet)
 
-Testnet: [gate2TBGydKNyMNUqz64s8bz4uaWS9PNreMbmAjb1Ft](https://explorer.solana.com/address/gate2TBGydKNyMNUqz64s8bz4uaWS9PNreMbmAjb1Ft?cluster=testnet)
+Testnet: [gatFkU1YqTZpz3aPxskoBM9SMzbUiUw7TkNHuNs8B3S.json](https://explorer.solana.com/address/gatFkU1YqTZpz3aPxskoBM9SMzbUiUw7TkNHuNs8B3S.json?cluster=testnet)
 
 APR Reference: TODO...
