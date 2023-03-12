@@ -2,7 +2,7 @@ import { Commitment, PublicKey } from "@safecoin/web3.js";
 
 // Should equal the contents of solana/program/program-id.md
 export const PROGRAM_ID: PublicKey = new PublicKey(
-  "gatQYMRPQ6aRJy4wp2JU6hiC2q6kcsQrKvD9Fp1ACmc.json"
+  "gatQYMRPQ6aRJy4wp2JU6hiC2q6kcsQrKvD9Fp1ACmc"
 );
 export const GATEKEEPER_NONCE_SEED_STRING = "gatekeeper"; // must match get_inbox_address_with_seed in state.rs
 export const GATEWAY_TOKEN_ADDRESS_SEED = "gateway"; // must match get_inbox_address_with_seed in state.rs

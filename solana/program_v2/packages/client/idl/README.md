@@ -8,8 +8,8 @@ This IDL allows for the simple interaction with the `gateway protocol` on-chain 
 
 ### Deployments
 
-- Mainnet-beta: gatFkU1YqTZpz3aPxskoBM9SMzbUiUw7TkNHuNs8B3S.json
-- Devnet: gatFkU1YqTZpz3aPxskoBM9SMzbUiUw7TkNHuNs8B3S.json
+- Mainnet-beta: gatFkU1YqTZpz3aPxskoBM9SMzbUiUw7TkNHuNs8B3S
+- Devnet: gatFkU1YqTZpz3aPxskoBM9SMzbUiUw7TkNHuNs8B3S
 - Testnet: TODO...
 
 ### APR Reference

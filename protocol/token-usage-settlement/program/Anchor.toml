@@ -1,5 +1,5 @@
 [programs.localnet]
-usage = "gatd71ATb67gFQQY5gVcicKC6gxBckfNF5AQi2zi8p2.json"
+usage = "gatd71ATb67gFQQY5gVcicKC6gxBckfNF5AQi2zi8p2"
 
 [registry]
 url = "https://anchor.projectserum.com"

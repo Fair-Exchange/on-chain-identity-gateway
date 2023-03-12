@@ -7,7 +7,7 @@
     "gateway-http-client"
   ],
   "scripts": {
-    "start-validator": "solana-test-validator --bpf-program gatQYMRPQ6aRJy4wp2JU6hiC2q6kcsQrKvD9Fp1ACmc.json target/deploy/solana_gateway_program.so --reset",
+    "start-validator": "solana-test-validator --bpf-program gatQYMRPQ6aRJy4wp2JU6hiC2q6kcsQrKvD9Fp1ACmc target/deploy/solana_gateway_program.so --reset",
     "test": "start-server-and-test start-validator http://localhost:8899/health test:inner",
     "test:inner": "yarn workspaces run test",
     "build": "yarn workspaces run build",

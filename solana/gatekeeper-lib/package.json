@@ -82,7 +82,7 @@
     "build": "rm -rf dist && tsc -b",
     "posttest": "yarn lint",
     "prepack": "yarn build",
-    "start-validator": "solana-test-validator --bpf-program gatQYMRPQ6aRJy4wp2JU6hiC2q6kcsQrKvD9Fp1ACmc.json ../program/target/deploy/solana_gateway_program.so --reset",
+    "start-validator": "solana-test-validator --bpf-program gatQYMRPQ6aRJy4wp2JU6hiC2q6kcsQrKvD9Fp1ACmc ../program/target/deploy/solana_gateway_program.so --reset",
     "lint": "eslint '{src,test}/**/*.ts' --max-warnings 0",
     "lint:fix": "yarn lint --fix",
     "test": "STAGE=${STAGE:-dev} FORCE_COLOR=1 nyc --extension .ts --reporter=text ts-mocha --timeout 30000 --paths 'test/**/*.ts'",

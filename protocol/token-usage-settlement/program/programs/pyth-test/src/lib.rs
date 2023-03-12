@@ -19,7 +19,7 @@ use crate::util::{get_corp_act, get_price_type, get_status};
 
 mod util;
 
-declare_id!("gatd71ATb67gFQQY5gVcicKC6gxBckfNF5AQi2zi8p2.json");
+declare_id!("gatd71ATb67gFQQY5gVcicKC6gxBckfNF5AQi2zi8p2");
 
 #[program]
 pub mod pyth_test {

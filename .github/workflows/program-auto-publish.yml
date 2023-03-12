@@ -17,7 +17,7 @@ jobs:
     with:
       environment: "program-auto-publish"
       package-path: "solana/program_v2/programs/gateway_v2/Cargo.toml"
-      program-address: "gatFkU1YqTZpz3aPxskoBM9SMzbUiUw7TkNHuNs8B3S.json"
+      program-address: "gatFkU1YqTZpz3aPxskoBM9SMzbUiUw7TkNHuNs8B3S"
       solana-version: "stable"
       rust-version: "stable"
       working-directory: "./solana/program_v2"

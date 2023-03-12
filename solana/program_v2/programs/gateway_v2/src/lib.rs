@@ -16,7 +16,7 @@ mod instructions;
 pub mod state;
 pub mod util;
 
-declare_id!("gatFkU1YqTZpz3aPxskoBM9SMzbUiUw7TkNHuNs8B3S.json");
+declare_id!("gatFkU1YqTZpz3aPxskoBM9SMzbUiUw7TkNHuNs8B3S");
 
 #[program]
 pub mod solana_anchor_gateway {

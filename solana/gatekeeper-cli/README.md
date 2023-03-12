@@ -486,7 +486,7 @@ EXAMPLE
    "owner": "EzZgkwaDrgycsiyGeCVRXXRcieE1fxhGMp829qwj5TMv",
    "state": "ACTIVE",
    "publicKey": "3rNZ6RzH6jLCzFeySVDc8Z82sJkeQ4xi7BCUzjpZBvZr",
-   "programId": "gatQYMRPQ6aRJy4wp2JU6hiC2q6kcsQrKvD9Fp1ACmc.json"
+   "programId": "gatQYMRPQ6aRJy4wp2JU6hiC2q6kcsQrKvD9Fp1ACmc"
   }
 ```
 
